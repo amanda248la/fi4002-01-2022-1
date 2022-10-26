@@ -3,23 +3,23 @@ Amanda Lathifah
 
 
 ## materi sebelumnya
-+ Tuliskan materi-materi sebelumnya yang telah diberikan dalam kuliah ini.
++ Dasar-dasar pemroraman Python, Persamaan Predator-Prey, Metode Euler, Metode Runge-Kutta orde 04, Matriks, aplikasi metode-metode tersebut terhadap persoalan fisis seperti kasus pegas ganda diagonal dan penentuan temperatur, Metode Monte Carlo
 
 
 ## materi paling menarik
-+ Tuliskan materi yang paling menarik yang telah diberikan dan jelaskan mengapa menarik.
++ Metode Euler, karena sebelumnya saya tidak tahu cara menyelesaikan persoalan fisika matematika dengan pemrograman
 
 
 ## materi paling membosankan
-+ Tuliskan materi yang telah diberikan yang paling membosankan dan jelaskan alasannya.
++ Matriks, karena cukup panjang dan membingungkan
 
 
 ## materi yang sudah dipami
-+ Tuliskan materi-materi yang telah dipahami.
++ Metode Euler
 
 
 ## materi yang belum dipahami
-+ Tuliskan materi-materi yang masih belum dipahami dan bagian mana yang belum serta ingin dipahami.
++ Metode Monte Carlo, aplikasi sistem fisis ke dalam metode yang belum pernah diberikan contohnya
 
 
 ## contoh program
