@@ -1,5 +1,5 @@
-# 1021XABC
-NamaLengkap
+# 10218023
+Amanda Lathifah
 
 
 ## materi sebelumnya
